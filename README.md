@@ -90,6 +90,11 @@ Contributions are welcome and appreciated.
 5. Open a Pull Request
 
 
+## 📄 License
+
+Distributed under the MIT License.
+
+
 ## 📧 Contact
 
 [@ulyawebstudio-web](https://github.com/ulyawebstudio-web) on GitHub
